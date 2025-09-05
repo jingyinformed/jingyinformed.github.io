@@ -6,12 +6,12 @@ subtitle: <a href='https://www.wtamu.edu/academics/college-business/index.html'>
 
 profile:
   align: right
-  image: profile_jingyi.jpg
+  image: 
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>(+1)806-651-4004</p>
     <p>jtian@wtamu.edu</p>
-    <p>Canyon, TX</p>
+    <p>Canyon,TX</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
