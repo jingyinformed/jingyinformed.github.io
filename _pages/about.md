@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.wtamu.edu/academics/college-business/index.html'>Paul and Virginia Engler College of Business, West Texas A&M Univeristy</a>. Economist in Business and Information Science
+subtitle: <a href='https://www.wtamu.edu/academics/college-business/index.html'> Paul and Virginia Engler College of Business, West Texas A&M Univeristy</a>. Economist in Business and Information Science
 
 profile:
   align: right
