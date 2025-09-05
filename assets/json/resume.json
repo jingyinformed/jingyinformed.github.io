@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Jingyi Tian",
+    "label": "Assistant Professor of Business Analytics",
     "image": "",
-    "email": "albert@einstein.de",
+    "email": "jtian@wtamu.edu",
     "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "url": "https://jingyinformed.github.io",
+    "summary": "Assistant professor in business; enthusiast in economics; learner in choreography",
     "location": {
-      "address": "2712 Broadway St",
+      "address": "15635",
       "postalCode": "CA 94115",
       "city": "San Francisco",
       "countryCode": "US",
