@@ -6,7 +6,7 @@ subtitle: <a href='https://www.wtamu.edu/academics/college-business/index.html'>
 
 profile:
   align: right
-  image: 
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>(+1)806-651-4004</p>
